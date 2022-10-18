@@ -119,6 +119,7 @@ Founded In : 1988 ,Sweden
   - Rapid Cycle Time Robots
 
 ---
+
 ## Articulated Robots:
 ABB’s comprehensive 6-axis articulated robot portfolio delivers the ideal solutions for use in material handling, machine tending, spot welding, arc welding, cutting, assembling, testing, inspecting, dispensing, grinding, and polishing applications.
 
@@ -132,15 +133,6 @@ ARB 8700:Flagship Model
 
 [![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/cVaFG9kSksU"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 Features and benefits:
 High payloads up to 1000 kg with the wrist down
@@ -198,7 +190,6 @@ The Horst1400 is particularly suitable for applications in logistics, transport 
 * Revenue: 635.6 billion JPY (2019)
 
 
-![Image of a Stretch robot](https://www.fanucamerica.com/images/default-source/robot-images/robots-by-model/robot-series-pages/pal-line-upe2c112e63432442b8cb1ac29b3e65c42.png?sfvrsn=5f4f111c_2) 
 FANUC Robotics offers over one hundred models of industrial robots. Renowned for their easy-to-use, versatile products, FANUC is a leader in innovation.
 
 Recently FANUC unveiled their new CRX series of cobots. These collaborative robotic arm units are streamlined with smart programming and highly-sensitive safety protocols, ensuring risk-free and straightforward
