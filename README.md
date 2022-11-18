@@ -23,6 +23,10 @@ In the following years other Robots were developed that were used in the automot
 
 A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__. Typically, cobots are more mobile and easier to move, which distinguishes them from typical industrial robots.
 
+#### Use of Robots in Germany 
+
+The number of robots in use worldwide has once again risen significantly - including in Germany. According to the International Federation of Robotics (IFR) the number of industrial robots per 10,000 employees increased again last year to a record 371 units. The Federal Republic of Germany is one of the most automated economies in the world.  Germany also ranks among the top countries internationally. In fact, Germany ranks fourth worldwide behind South Korea, Singapore and Japan. Along with Germany, Sweden in fifth place is another EU country among the leaders.
+
 ## Producers
 
 Some of the major robot producers are:
@@ -239,13 +243,17 @@ Headquarter: Augsburg, Germany
 
 Size of Company (Nb of Employees): 14,000 employees
 
-Representative Robot:
+Kuka's robots are used in the automotive industry as well as in German medium-sized businesses. 
+
+#### Representative Robot:
 
 Industrial Robots 
+
+In Germany, Kuka mainly offers small and large jointed-arm robots.
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
-![Image of Industry robots KUKA](industry_KUKA.png)
+![Image of Industry robots KUKA](kuka-industrieroboter-2020.jpg)
 
 ---
 
@@ -312,7 +320,6 @@ Industrial Robots
     * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
     * ![Image of Robobear RIKEN](Riken_Robear.jpg)
 
-TESTTest 
 
 
 ## Application of robots in agriculture 
