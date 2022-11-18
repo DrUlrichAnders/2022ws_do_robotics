@@ -9,11 +9,7 @@ This is our repository.
 Robotics is an engineering discipline that deals with the idea, design, construction, and operation of robots. The goal of robotics is to develop intelligent devices that can aid people in a number of ways.
 Robotics may take many different shapes. A robot can be human-like or take the shape of a robotic application, such as robotic process automation, which mimics how humans interact with software to conduct repetitive, rules-based activities.
 
-Robot” defined by International Standards Organization ISO. No robots:
-software (“bots”, AI, Robotic Process Automation -RPA) remote-controlled drones, UAV, UGV, UUV
-voice assistants
-autonomous cars
-ATMs, smart washing machines, etc
+
 
 
 ## History and Development of Robots
@@ -25,6 +21,8 @@ In the 1950s, inventor George Devol and engineer Joseph Engelberger developed *U
 In 1961, this robotic arm was used in General Motors production. The machine performed the task of transporting die-cast parts from an assembly line and then welding these parts to car bodies. Additionally, *Unimate* was also able of pouring drinks. How multifunctional the robot could be used can be seen in this [video](https://www.youtube.com/watch?v=hxsWeVtb-JQ).
 
 In the following years other Robots were developed that were used in the automotive industry. In 1973, Kuka, a company from Augsburg, launched the first six-axis, purely electrically operated robot. A year later, the Swedish company Asea, now ABB, followed with a robotic arm that was programmed with a computer for the first time. In the subsequent two decades, besides Kuka and ABB, manufacturers such as Fanuc and Yaskawa established themselves in the robot market.
+
+![Annual_installations_of_industrial_robots.png](Annual_installations_of_industrial_robots.png)
 
 #### The characteristics of Cobots
 
@@ -265,7 +263,10 @@ Headquarter: Augsburg, Germany
 
 Size of Company (Nb of Employees): 14,000 employees
 
-Kuka's robots are used in the automotive industry as well as in German medium-sized businesses. 
+Kuka's robots are used in the automotive industry as well as in German medium-sized businesses. KUKA's portfolio is broad and ranges from automotive, automotive supplier/metal industry, electronics industry, food, foundry and forging industry, medical technology to plastics industry.
+
+
+In 2015, no German company wanted to make a major investment in Kuka, and the smaller shareholders did not want to turn down the lucrative offer from the Midea Group - a chinese household appliance giant- and thus gave up some of their shares. After several years, more than 95 percent of Kuka AG is already owned by Chinese group Midea which is now to take over the robot manufacturer completely via "squeeze-out" procedure. Therefore, there is also a lot of criticism from a political perspective.
 
 #### Representative Robot:
 
@@ -281,11 +282,11 @@ In Germany, Kuka mainly offers small and large jointed-arm robots. According to 
 
 ## Industries Utilizing Robotics: :robot:
 
-* [Healtchcare sector](https://www.youtube.com/watch?v=ZM1GZSO7MYs)
-    * Surgery robots (like [da Vinci Xi](https://www.youtube.com/watch?v=H4WzUSq9OeY))
-    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia; rehabilitation robots)
-    * assistive robots 
-    * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
+![Annual_installations](Annual_installations_of_industrial_robots_by_customer_industry.png)
+
+![Top_6_application_areas_for_professional_service_robots](Top_6_application_areas_for_professional_service_robots.png)
+
+
 * [Manufacturing e.g. Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
     * consist mainly of mechanical arms tasked with pick and place (other examples: robotic welding machine, palletizing robot arm, automatic painting robot,...)
 * [Agriculture](https://www.youtube.com/watch?v=bd9JZXscOIE)
@@ -293,22 +294,7 @@ In Germany, Kuka mainly offers small and large jointed-arm robots. According to 
 *  [Military](https://www.youtube.com/watch?v=uXGj1kZnFEg)
     * Military robots use artificial intelligence for carrying out different tasks like picking off snipers, target acquisition, climbing ladders, operating in disaster situations, explosive ordnance disposal, search and rescue, fire fighting, and many more.
 
-* Further examples: 
-    * Aerospace
-    * Beverage
-    * Computers
-    * Consumer goods
-    * E-Commerce
-    * Electronics
-    * Food
-    * Grocery
-    * Hardware
-    * Liquor distribution
-    * Medical products
-    * Pharmaceutical
-    * Quality control and inspection
-    * Retail
-    * Warehousing and distribution
+    --- 
 
 ## Application of robots in the healthcare sector 
 
@@ -338,7 +324,12 @@ In Germany, Kuka mainly offers small and large jointed-arm robots. According to 
     * Modular robots complement other systems and can be configured to perform different tasks and assist in rehabilitation, for example.  In healthcare, these include therapeutic exoskeleton robots and prosthetic robotic arms and legs.
 
 * __Nursing Robots__
-    * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
+
+    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia; rehabilitation robots)
+    * assistive robots 
+    * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
+
+        * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
     * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
     * ![Image of Robobear RIKEN](Riken_Robear.jpg)
 
