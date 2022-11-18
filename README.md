@@ -70,6 +70,7 @@ Founded In : 1988 ,Sweden
   - Rapid Cycle Time Robots
 
 ---
+
 ## Articulated Robots:
 ABB’s comprehensive 6-axis articulated robot portfolio delivers the ideal solutions for use in material handling, machine tending, spot welding, arc welding, cutting, assembling, testing, inspecting, dispensing, grinding, and polishing applications.
 
@@ -84,15 +85,6 @@ ARB 8700:Flagship Model
 ![Picture of ABB IRB 8700](ABB_8700.png)
 [![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/cVaFG9kSksU"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 Features and benefits:
 High payloads up to 1000 kg with the wrist down
@@ -100,8 +92,6 @@ High payloads up to 1000 kg with the wrist down
 Highly reliable with simplified design and Foundry Plus 2 protection standard
 Built around LeanID for reduced wear on dress packs and ease of simulation
 Built using non-hazardous materials
-
-
 
  
 ## Collaborative Robots:
@@ -178,7 +168,16 @@ programming and operation.
 
 FANUC is also well-known for their large and powerful M-2000iA series robotic arms. This “Ultra Heavy Payload” class has a working capacity of up to 2300 kg! Of course, they make arms of all sizes in between as well. Their Paint Series robotic arm uses a top-of-the-line hydraulic system that is powerful enough for automobile painting but delicate enough for smaller powder-coating jobs. Finally, their mid-range arms can do everything from pick-and-place to welding and machine tending. FANUC has a robot for virtually every automation need.
 
-* The product range of FANUC includes:
+* Industrial robots for added efficiency:
+
+   * [M-2000iA/2300](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-2000-series/m-2000ia-2300)
+   ,with its enormous 2.3 t payload, the M-2000iA/2300 is the biggest lifter in the range. Ideally suited to heavyweight material handling applications that require an even stronger wrist, this machine will easily lift and position an entire car or load bulky set castings onto machine fixtures.
+   * [M-900iB/280](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-900-series/m-900ib-280)
+    ;based on the extremely capable M-900iB/360, the M-900iB/280 features a completely redesigned J3 arm to provide maximum stiffness. The M-900iB/280 has been tested to ISO 9283 rigidity standards and exhibits a very high level of static compliance. This makes it ideally suited to operations where pressure is applied to the tool and accuracy essential.
+    * [R-30iB Plus controller](https://www.fanuc.eu/de/en/robots/accessories/robot-controller-and-connectivity)
+    is FANUC’s new standard for smarter productivity. It is destined to contribute to the easier use of robots and automation in the manufacturing industry. Featuring a new generation of advanced integrated hardware and more than 250 software functions, it is your key to robot performance in terms of cycle-time, speed, accuracy and safety. Designed for increased user friendliness and minimal energy consumption, the R-30iB Plus comes in five different cabinets to help you make the most of your floor space and production cell layouts. With a flexible appearance, the user interface, iHMI, has a convincing screen resolution and a strong processing capability.
+
+* [The product range of FANUC includes](https://www.fanuc.eu/de/en/robots/robot-range-page):
 
     * Collaborative Robot
     * Genkotsu-robot, Mini Robot
@@ -332,16 +331,17 @@ When it comes to research and development some of the [Robotnik](https://robotni
 
 According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robots agriculture is: 
 
-1. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
-2. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
-3. Crop monitoring and Analysis: [being able to look at every single plant.](https://www.youtube.com/watch?v=STlXFht8-5w)
-4. Fertilizing and Irrigation: [simple but helpful Cron Fertilizing robot.](https://www.youtube.com/watch?v=STlXFht8-5w)
-5. Crop Weeding and spraying: [like this.](https://www.youtube.com/watch?v=Qg9Zubc7lok)
-6. Thinning and Pruning: [with the award winning LettuceBot.](https://www.youtube.com/watch?v=jL4kcrumHA8)
-7. Autonomous Tractors: [both compact and zero emission.](https://www.youtube.com/watch?v=gMaQq_vRaa8)
+1. Autonomous Tractors: [both compact and zero emission.](https://www.youtube.com/watch?v=gMaQq_vRaa8)
+2. Crop monitoring and Analysis: [being able to look at every single plant.](https://www.youtube.com/watch?v=STlXFht8-5w)
+3. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
+4. Crop Weeding and spraying: [like this.](https://www.youtube.com/watch?v=Qg9Zubc7lok)
+5. Fertilizing and Irrigation: [simple but helpful Cron Fertilizing robot.](https://www.youtube.com/watch?v=STlXFht8-5w)
+6. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+7. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
 8. Picking and harvesting: [like this robot picking grapes.](https://www.youtube.com/watch?v=hVvs6_Wx2HM)
 9. Shepherding and Herding: [with "robot dog".](https://www.youtube.com/watch?v=gD7K6-q-o50)
-10. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+10. Thinning and Pruning: [with the award winning LettuceBot.](https://www.youtube.com/watch?v=jL4kcrumHA8)
+
 
 
 ## Application of robots in the warehouse sector
