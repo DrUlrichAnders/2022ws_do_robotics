@@ -9,6 +9,13 @@ This is our repository.
 Robotics is an engineering discipline that deals with the idea, design, construction, and operation of robots. The goal of robotics is to develop intelligent devices that can aid people in a number of ways.
 Robotics may take many different shapes. A robot can be human-like or take the shape of a robotic application, such as robotic process automation, which mimics how humans interact with software to conduct repetitive, rules-based activities.
 
+Robot” defined by International Standards Organization ISO. No robots:
+software (“bots”, AI, Robotic Process Automation -RPA) remote-controlled drones, UAV, UGV, UUV
+voice assistants
+autonomous cars
+ATMs, smart washing machines, etc
+
+
 ## History and Development of Robots
 
 In the 1950s, inventor George Devol and engineer Joseph Engelberger developed *Unimate*, the first industrial robot. In the patent for "Programmed Article Transfer", which was granted in 1961, it reads as follows:
@@ -26,6 +33,22 @@ A __cobot__ is an industrial robot that is designed to work together with humans
 #### Use of Robots in Germany 
 
 The number of robots in use worldwide has once again risen significantly - including in Germany. According to the International Federation of Robotics (IFR) the number of industrial robots per 10,000 employees increased again last year to a record 371 units. The Federal Republic of Germany is one of the most automated economies in the world.  Germany also ranks among the top countries internationally. In fact, Germany ranks fourth worldwide behind South Korea, Singapore and Japan. Along with Germany, Sweden in fifth place is another EU country among the leaders.
+
+## Trends in Robotics (according to IFR)
+
+| Market Trends | Technological Trends| 
+|--|--|
+| **1. Re- and nearshoring of production** |**1. Sustainable development** |
+|Securing supply chains| Reducing the carbon footprint of production & Responsible industrialization
+|Increasing resilience and flexibility (logistics, politics)|Contributing to the accessibility/availability of renewable energies
+| **2. “Democratizing” robotics** |**2. Advancements in adjacent technologies**
+| Low-cost robotics opens up new customer segments |Vision and spacial awareness technologies
+| Easy setup and installation (out-of-the-box solutions) |New software and end effectors for a diversified range of tasks
+| New distribution channels |AI offering new applications
+| **3. Ongoing trend to high mix-low volume production** |**3. Human-robot collaboration steadily developing** 
+| Growing demand for highly customized products| Expanding product range with higher payloads and longer reach
+| Fully digitalized production from order intake to delivery |Business ecosystems & one-stop shops ease the deployment 
+
 
 ## Producers
 
@@ -248,7 +271,7 @@ Kuka's robots are used in the automotive industry as well as in German medium-si
 
 Industrial Robots 
 
-In Germany, Kuka mainly offers small and large jointed-arm robots.
+In Germany, Kuka mainly offers small and large jointed-arm robots. According to industry estimates, the market share for jointed-arm robots is in the low double digits.
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
@@ -319,7 +342,9 @@ In Germany, Kuka mainly offers small and large jointed-arm robots.
     * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
     * ![Image of Robobear RIKEN](Riken_Robear.jpg)
 
+#### The demographic change will make the use of robots in the clinical sector unavoidable for the future
 
+According to expert calculations, there will be a shortage of 150,000 nursing staff in Germany by 2025, and the number will continue to rise due to demographic change. The challenge of how to overcome this shortage has become a topic of tremendous interest for politics and social sciences given the urgency and the risk of collapse of our health care systems. The attraction of the nursing profession is a recurring topic of debate, in which not only the high workload but also the poor payment are the central issues. However, concrete measures for action with real impact on the current situation are hardly ever taken, if at all. The low attractiveness of the nursing profession naturally exacerbates the labor shortage further, since not only existing personnel are quitting but also less want to enter the nursing profession. Obviously, because of the fact, that the nursing shortage cannot be overcome by human resources alone and existing technology is developing rapidly, the use of robotic systems will  also become established in nursing in the future.
 
 ## Application of robots in agriculture 
 
