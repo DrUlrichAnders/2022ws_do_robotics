@@ -21,73 +21,20 @@ In the following years other Robots were developed that were used in the automot
 
 #### The characteristics of Cobots
 
-A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__.
+A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__. Typically, cobots are more mobile and easier to move, which distinguishes them from typical industrial robots.
 
 ## Producers
-* Boston Dynamics
-* Franka Emika
+
+Some of the major robot producers are:
+
 * ABB 
-* Fruitcore robotics
+* Boston Dynamics
 * Fanuc 
+* Franka Emika
+* Fruitcore robotics
 * Kuka
 
----
-
-### Boston Dynamics
-
-![Logo Boston Dynamics](bostondynamics.jpg) 
-
-Website: [https://www.bostondynamics.com/](https://www.bostondynamics.com/)
-
-Headquarter: Waltham, Massachusetts, United States
-
-Size of Company (Nb of Employees): 500
-
-Representative Robot:
-
-SPOT 
-* Can navigate trough difficult terrain where it is hard for humans to enter
-* See [a video of the amazing things Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
-
-![Image of a Spot robot](Spot-robot.jpg) 
-
-
-STRETCH 
-* Robotic arm making automated warehouse handling more efficient
-* See [a video of Stretch at work](https://www.youtube.com/watch?v=yYUuWWnfRsk)
-
-![Image of a Stretch robot](Stretch-robot.jpg) 
-
-
-Project for the future:
-
-ATLAS
-* 37 million people have seen [Atlas dancing](https://www.youtube.com/watch?v=fn3KWM1kuAw)
-* Atlas is a human shaped robot with the ability to both dance and do parkour 
-* If you want to know more about how and why, here is an [interesting and explanatory video](https://www.bostondynamics.com/atlas)
-
----
-
-### Franka Emika
-
-
-* Website: [https://www.franka.de/](https://www.franka.de/)
-* Headquarter: Munich, Germany
-* Founded In: 2017
-* Size of Company (Nb of Employees): < 125
-* Revenue: 10.73 Million Euro (2019)
-
-Representative Robot:
-
-Franka Production 3
-
-* The Cobot is fully TÜV certified, thus, suitable for industry.
-* The product consists of a gripper arm and the associated app.
-* The robot characterized by its high flexibility, since it has seven axes and is equipped with more than a hundred different sensors.
-* It is capable of lifting 3 kg and has a reach of 833 mm.
-* The product is mainly implemented in areas of process automation of industrial production.
-
-![Image of Franka Production 3](Franka.png)
+Below you can read more about the different producers.
 
 ---
 
@@ -127,10 +74,11 @@ Its Payload Capacities Range From 4 Kgs to 800 Kgs
 
 And Reach Of Arm Ranges From 0.58 Meters to 4.2 Meters In Length 
 
----
+
 
 ARB 8700:Flagship Model
 
+![Picture of ABB IRB 8700](ABB_8700.png)
 [![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
 
@@ -141,23 +89,21 @@ Highly reliable with simplified design and Foundry Plus 2 protection standard
 Built around LeanID for reduced wear on dress packs and ease of simulation
 Built using non-hazardous materials
 
----
-
  
 ## Collaborative Robots:
  ABB’s collaborative robots are made for a wide range of tasks, in operations of every size. They’re easy to set up, program, operate, and scale. Built by industry-leading experts. And serviced by the broadest service network in the industry. Whatever you need, we’re here to support every step of your automation journey.
 
----
+
 
 ## Paint Robots
 A complete range of paint robots to help you increase the productivity and quality of your paint shop operations. Designed for automotive interior & exterior painting, tiers, and general small & medium parts painting applications.
 
----
+
 
 ## Picking and Packing Robots
 ABB’s Delta robot portfolio is the leader in state-of-the-art high-speed robotic picking and packing technology for use in the picking, packing, and packaging applications. Our delta robots offer the greatest flexibility in a compact footprint.
 
----
+
 
 ## Rapid Cycle Time Robots
 Quick, precise, and reliable, ABB’s SCARA robots are ideal for customers requiring rapid cycle times, high precision, and high reliability for material handling, loading & unloading, picking & placing, and small part assembly & testing applications.
@@ -165,7 +111,107 @@ Quick, precise, and reliable, ABB’s SCARA robots are ideal for customers requi
 
 ---
 
+### Boston Dynamics
+
+![Logo Boston Dynamics](bostondynamics.jpg) 
+
+Website: [https://www.bostondynamics.com/](https://www.bostondynamics.com/)
+
+Headquarter: Waltham, Massachusetts, United States
+
+Size of Company (Nb of Employees): 500
+
+Representative Robot:
+
+SPOT 
+* Can navigate trough difficult terrain where it is hard for humans to enter
+* See [a video of the amazing things Spot can do](https://www.youtube.com/watch?v=wlkCQXHEgjA)
+
+![Image of a Spot robot](Spot-robot.jpg) 
+
+
+STRETCH 
+* Robotic arm making automated warehouse handling more efficient
+* See [a video of Stretch at work](https://www.youtube.com/watch?v=yYUuWWnfRsk)
+
+![Image of a Stretch robot](Stretch-robot.jpg) 
+
+
+Project for the future:
+
+ATLAS
+* 37 million people have seen [Atlas dancing](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+* Atlas is a human shaped robot with the ability to both dance and do parkour 
+* If you want to know more about how and why, here is an [interesting and explanatory video](https://www.bostondynamics.com/atlas)
+
+---
+
+### Fanuc 
+
+![Logo Fanuc](fanuc-logo.jpg) 
+
+* Website: [https://www.fanuc.eu/de/en/](https://www.fanuc.eu/de/en)
+* Headquarter: Oshino, Yamanashi, Japan
+* Size of Company (Nb of Employees): 8,256 employees
+* Revenue: 635.6 billion JPY (2019)
+
+
+![Image of diffrent type of Fanuc robots](https://www.fanucamerica.com/images/default-source/robot-images/robots-by-model/robot-series-pages/pal-line-upe2c112e63432442b8cb1ac29b3e65c42.png?sfvrsn=5f4f111c_2) 
+FANUC Robotics offers over one hundred models of industrial robots. Renowned for their easy-to-use, versatile products, FANUC is a leader in innovation.
+
+Recently FANUC unveiled their new CRX series of cobots. These collaborative robotic arm units are streamlined with smart programming and highly-sensitive safety protocols, ensuring risk-free and straightforward
+programming and operation.
+
+FANUC is also well-known for their large and powerful M-2000iA series robotic arms. This “Ultra Heavy Payload” class has a working capacity of up to 2300 kg! Of course, they make arms of all sizes in between as well. Their Paint Series robotic arm uses a top-of-the-line hydraulic system that is powerful enough for automobile painting but delicate enough for smaller powder-coating jobs. Finally, their mid-range arms can do everything from pick-and-place to welding and machine tending. FANUC has a robot for virtually every automation need.
+
+* Industrial robots for added efficiency:
+
+   * [M-2000iA/2300](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-2000-series/m-2000ia-2300)
+   ,with its enormous 2.3 t payload, the M-2000iA/2300 is the biggest lifter in the range. Ideally suited to heavyweight material handling applications that require an even stronger wrist, this machine will easily lift and position an entire car or load bulky set castings onto machine fixtures.
+   * [M-900iB/280](https://www.fanuc.eu/de/en/robots/robot-filter-page/m-900-series/m-900ib-280)
+    ;based on the extremely capable M-900iB/360, the M-900iB/280 features a completely redesigned J3 arm to provide maximum stiffness. The M-900iB/280 has been tested to ISO 9283 rigidity standards and exhibits a very high level of static compliance. This makes it ideally suited to operations where pressure is applied to the tool and accuracy essential.
+    * [R-30iB Plus controller](https://www.fanuc.eu/de/en/robots/accessories/robot-controller-and-connectivity)
+    is FANUC’s new standard for smarter productivity. It is destined to contribute to the easier use of robots and automation in the manufacturing industry. Featuring a new generation of advanced integrated hardware and more than 250 software functions, it is your key to robot performance in terms of cycle-time, speed, accuracy and safety. Designed for increased user friendliness and minimal energy consumption, the R-30iB Plus comes in five different cabinets to help you make the most of your floor space and production cell layouts. With a flexible appearance, the user interface, iHMI, has a convincing screen resolution and a strong processing capability.
+
+* [The product range of FANUC includes](https://www.fanuc.eu/de/en/robots/robot-range-page):
+
+    * Collaborative Robot
+    * Genkotsu-robot, Mini Robot
+    * Arc Welding Robot, Small/Medium Size Robot
+    * Large Size Robot
+    * Palletizing Robot, Others
+    * Paint Robot
+
+
+--- 
+
+### Franka Emika
+
+![Logo Franka Emika](1-franka-emika.jpg) 
+
+* Website: [https://www.franka.de/](https://www.franka.de/)
+* Headquarter: Munich, Germany
+* Founded In: 2017
+* Size of Company (Nb of Employees): < 125
+* Revenue: 10.73 Million Euro (2019)
+
+Representative Robot:
+
+Franka Production 3
+
+* The Cobot is fully TÜV certified, thus, suitable for industry.
+* The product consists of a gripper arm and the associated app.
+* The robot characterized by its high flexibility, since it has seven axes and is equipped with more than a hundred different sensors.
+* It is capable of lifting 3 kg and has a reach of 833 mm.
+* The product is mainly implemented in areas of process automation of industrial production.
+
+![Image of Franka Production 3](Franka.png)
+
+
+
 ### Fruitcore robotics
+
+![Logo Futicore](futicore_robotics_logo.jpg) 
 
 * Website: [https://fruitcore-robotics.com/]
 * Headquarter: Konstanz, Germany
@@ -182,34 +228,9 @@ The Horst1400 is particularly suitable for applications in logistics, transport 
 
 ---
 
-### Fanuc 
-
-* Website: [https://www.fanuc.eu/de/en/](https://www.fanuc.eu/de/en)
-* Headquarter: Oshino, Yamanashi, Japan
-* Size of Company (Nb of Employees): 8,256 employees
-* Revenue: 635.6 billion JPY (2019)
-
-
-FANUC Robotics offers over one hundred models of industrial robots. Renowned for their easy-to-use, versatile products, FANUC is a leader in innovation.
-
-Recently FANUC unveiled their new CRX series of cobots. These collaborative robotic arm units are streamlined with smart programming and highly-sensitive safety protocols, ensuring risk-free and straightforward
-programming and operation.
-
-FANUC is also well-known for their large and powerful M-2000iA series robotic arms. This “Ultra Heavy Payload” class has a working capacity of up to 2300 kg! Of course, they make arms of all sizes in between as well. Their Paint Series robotic arm uses a top-of-the-line hydraulic system that is powerful enough for automobile painting but delicate enough for smaller powder-coating jobs. Finally, their mid-range arms can do everything from pick-and-place to welding and machine tending. FANUC has a robot for virtually every automation need.
-
-* The product range of FANUC includes:
-
-    * Collaborative Robot
-    * Genkotsu-robot, Mini Robot
-    * Arc Welding Robot, Small/Medium Size Robot
-    * Large Size Robot
-    * Palletizing Robot, Others
-    * Paint Robot
-
-
---- 
-
 ### Kuka
+
+![Logo Kuka](Kuka_logo.jpg) 
 
 Website: [https://www.kuka.com/](https://www.kuka.com/)
 
@@ -223,7 +244,9 @@ Industrial Robots
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
+![Image of Industry robots KUKA](industry_KUKA.png)
 
+---
 
 ## Industries Utilizing Robotics: :robot:
 
@@ -255,6 +278,104 @@ Industrial Robots
     * Quality control and inspection
     * Retail
     * Warehousing and distribution
+
+## Application of robots in the healthcare sector 
+
+* __Surgical-Assistance Robots__
+    * Surgical assist robots support surgeons performing complex operations using AI and computer vision-enabled technologies, thereby achieving new levels of speed and accuracy. The ability to use video transmission from the operating room to other locations nearby or far away also allows surgeons to consult with other specialists in their field. This allows patients to include the best surgeons in their procedures and increases the quality of care patients receive. Some surgical robots may even be able to perform tasks autonomously, allowing surgeons to monitor procedures from a console.
+    * Currently, surgical assistance robots are mainly used in orthopedic surgery and for minimally invasive operations in the upper body. 
+    [watch surgical robots in action](https://www.youtube.com/watch?v=2fnv_3qn3Yc)
+
+    * __Da Vinci Systems__ for minimal invasive operations: 
+        * translates your surgeon’s hand movements at the console in real time, bending and rotating the instruments while performing the procedure. 
+        * contains tiny wristed instruments which makes it possible for surgeons to operate through one or a few small incisions. Furthermore these tiny instruments move like a human hand, but with a greater range of motion. 
+        * delivers highly magnified, 3D high-definition views of the surgical area.
+        * contains of three components 
+        ![Image of components of da vinci system](da_Vinci_system_components.png)
+
+    * Top robotic surgery companies in the U.S.  
+        1. Intuitive Surgical
+        2. Stryker
+        3. Smith & Nephew
+        4. Accuray
+        5. Medtronic
+        6. Globus Medical
+        7. Johnson & Johnson
+        8. Zimmer Biomet
+
+* __Modular Robots__
+    * Modular robots complement other systems and can be configured to perform different tasks and assist in rehabilitation, for example.  In healthcare, these include therapeutic exoskeleton robots and prosthetic robotic arms and legs.
+
+* __Nursing Robots__
+    * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
+    * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
+    * ![Image of Robobear RIKEN](Riken_Robear.jpg)
+
+TESTTest 
+
+
+## Application of robots in agriculture 
+
+Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone, [like this](https://www.youtube.com/watch?v=Qg9Zubc7lok). They also improve the working conditions for the farmers. 
+
+Robots can be used for harvesting fruits, [like this robot picking grapes](https://www.youtube.com/watch?v=hVvs6_Wx2HM). Or for collecting information, [for example differentiating weeds form corns](https://www.youtube.com/watch?v=eof99XfoFfY). 
+
+When it comes to research and development some of the [Robotnik](https://robotnik.eu/robotics-applications-in-agriculture/) projects are BACCHUS, AGROBOFOOD and CORSECT. Where Bacchus has the ability to both collet data and do harvesting at the same time. While Agrobofood aims do create a digital transformation in the agricultural sector. Corsect on the other hand works on optimizing insect production. 
+
+According to [Owen-Hill (2022)](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry) the top 10 Applications of Robots agriculture is: 
+
+1. Autonomous Tractors: [both compact and zero emission.](https://www.youtube.com/watch?v=gMaQq_vRaa8)
+2. Crop monitoring and Analysis: [being able to look at every single plant.](https://www.youtube.com/watch?v=STlXFht8-5w)
+3. Crop Seeding: [with high precision.](https://www.youtube.com/watch?v=OoUGSb-ASTc)
+4. Crop Weeding and spraying: [like this.](https://www.youtube.com/watch?v=Qg9Zubc7lok)
+5. Fertilizing and Irrigation: [simple but helpful Cron Fertilizing robot.](https://www.youtube.com/watch?v=STlXFht8-5w)
+6. Milking: [both reducing need for labour and stress for the cow.](https://www.youtube.com/watch?v=tLjI_eixBQk)
+7. Nursery Planting: [being able to plant 10 000 cuttings per hour.](https://www.youtube.com/watch?v=Xy0yOBszN1k)
+8. Picking and harvesting: [like this robot picking grapes.](https://www.youtube.com/watch?v=hVvs6_Wx2HM)
+9. Shepherding and Herding: [with "robot dog".](https://www.youtube.com/watch?v=gD7K6-q-o50)
+10. Thinning and Pruning: [with the award winning LettuceBot.](https://www.youtube.com/watch?v=jL4kcrumHA8)
+
+
+
+## Application of robots in the warehouse sector
+
+### What is a warehouse robot?
+
+Warehouse robotics involves the use of automated systems, robots and specialized software to automate the flow of goods and increase productivity. These technologies are used to transport materials, perform various tasks, and automate warehouse processes. The relevance of robotics in areas of supply chain, distribution center and warehouse management has increased significantly in the last decade.
+
+### What types of robots are applied in warehouses?
+
+#### Automated Guided Vehicles (AGV)
+
+Automatic Guided Vehicles are transport devices similar to forklifts that are used to move materials, supplies and inventory within a warehouse facility. The technologies operate without drivers, instead following set routes defined by wires, magnetic strips, rails, sensors embedded in the floor or other physical guides. Other robots use cameras and infrared to identify obstacles and avoid collisions.
+
+#### Automated storage and retrieval systems (AS/RS)
+
+AS/RS are computerized systems used to automate inventory management and storage/retrieval of goods on demand. They include stacker cranes for pallets, mini-load systems or the automatic pallet shuttle system, which are usually coupled with warehouse management software and allow the rapid removal and placement of products. The fact that these technologies operate twenty-four hours a day enables the continuous movement of goods, increasing the speed with which an order can be processed and materials handled. 
+
+#### Articulated robotic arms
+
+Articulated robotic arms look like multi-jointed limbs and are used to handle products and distribution centers.  These robots have components that perform rotating and conveying motions, consequently they can rotate, lift and maneuver objects. The arms can work completely independently or together with warehouse workers.Robots facilitate order assembly and can assist warehouse workers in handling heavy loads.
+
+### What are benefits of warehouse robots?
+
+#### 1. Increased productivity and efficiency
+
+By using robots in the warehouse, work becomes far faster and more efficient. For example, warehouse workers can stay at the picking stations and wait for the AS/RS and conveyors to bring them the goods for order assembly. As a result, they don't need to run around the warehouse looking for the items they need.
+
+#### 2. Increased accuracy in workflows
+
+If goods are managed manually, there is an increased risk of error - for instance, putting an item in the wrong place or putting together an order without the appropriate item - which can cause high costs in the company. Robots, by contrast, follow the instructions of the management software regarding the handling, picking and sorting of goods. Consequently, a high level of accuracy is ensured in order handling and warehousing.
+
+#### 3. Collaboration with warehouse workers
+
+Robots facilitate warehouse workers' routine tasks and help them be more efficient. For example, these machines can move large volumes of goods without any problems, allowing the warehouse worker to focus on other tasks with higher added value.
+
+#### 4. Increased Safety
+
+Handling of goods is associated with an increased risk of accidents, especially with heavy loads or when handling in uncomfortable positions and performing repetitive motions. Robots perform various tasks accurately and without the risk of accidents.
+
+
     
 ## Advantages of robots
 
@@ -280,7 +401,7 @@ Industrial Robots
 
 ## Conclusion 
 
-Robots may be one of the greatest inventions ever, but we must utilise their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
+Robots may be one of the greatest inventions ever, but we must utilize their power with prudence. Perhaps it is a good idea to have industrial robots that can reduce human danger, raise production, and increase profit. But it is insane to design or build anything that threatens the very existence of its creator. Although humanoid robots are still primarily confined to science fiction, robotic devices are all around us. These engineering marvels currently assist us in many aspects of life and have the potential to influence our future.
 
 Despite a number of advantages and downsides, one thing is certain: persons with robotics expertise will be in great demand in the future. There will almost certainly always be work in the field of robotics, whether it be designing, programming, or maintaining robots.
 
@@ -291,4 +412,4 @@ Despite a number of advantages and downsides, one thing is certain: persons with
 
 - FANUC | The Factory Automation Company - Fanuc. (n.d.). Retrieved October 11, 2022, from https://www.fanuc.eu/de/en
 
--
+- Robotnik | Robotics applications in agriculture. Retrieved October 26, 2022, from https://robotnik.eu/robotics-applications-in-agriculture/
