@@ -337,6 +337,48 @@ In Germany, Kuka mainly offers small and large jointed-arm robots. According to 
 
 According to expert calculations, there will be a shortage of 150,000 nursing staff in Germany by 2025, and the number will continue to rise due to demographic change. The challenge of how to overcome this shortage has become a topic of tremendous interest for politics and social sciences given the urgency and the risk of collapse of our health care systems. The attraction of the nursing profession is a recurring topic of debate, in which not only the high workload but also the poor payment are the central issues. However, concrete measures for action with real impact on the current situation are hardly ever taken, if at all. The low attractiveness of the nursing profession naturally exacerbates the labor shortage further, since not only existing personnel are quitting but also less want to enter the nursing profession. Obviously, because of the fact, that the nursing shortage cannot be overcome by human resources alone and existing technology is developing rapidly, the use of robotic systems will  also become established in nursing in the future.
 
+## Application Of Robots in Military
+
+Robots in military help to reduce the cost of war on human lives. Today the military uses
+robots in various tasks especially those that are difficult for human beings or those deemed to
+dangerous to the lives of the soldiers and with costly repercussions. This is aimed at reducing the
+number of soldiers lost to war while meeting the needs of the military. In addition to being able
+to operate in harsh weather conditions as well as terrain, robots used in this field are remotely
+controlled and well equipped with cameras, sensors and mechanical limbs to be able to perform
+their tasks.
+There are two distinct types of robots used by the military; the ones that inflict damage to
+the enemy, while others are used to collect information as well as surveillance and
+reconnaissance.
+When it comes to robot development in this space, some of the projects include the
+[Robobee](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=the%20near%20future.-,The%20Robobee,-Developed%20by%20Harvard%E2%80%99s), [Dogo](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=for%20crop%20pollination.-,The%20DOGO,-The%20DOGO%20is) and [Saffir](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=safe%20from%20harm.-,SAFFiR,-Created%20by%20engineering). Where the [Robobee](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=the%20near%20future.-,The%20Robobee,-Developed%20by%20Harvard%E2%80%99s) manages remotely controlled aerial surveillance
+without detection. while [Dogo](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=for%20crop%20pollination.-,The%20DOGO,-The%20DOGO%20is) is capable of ground reconnaissance with both defensive and
+offensive capabilities. [Saffir](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=safe%20from%20harm.-,SAFFiR,-Created%20by%20engineering) on the hand is built to tackle fires on sea vessels and can even see-
+through smoke.
+According to [internal research journal of engineering and technology, of the Sinhgad
+institute of technology and science, dated 05 May,2017](https://www.academia.edu/download/53592731/IRJET-V4I5490.pdf), key applications of the robots used in the military include:
+1. Surveillance: being able to offer real time monitoring of the field and areas of
+interest.
+2. Reconnaissance: getting to the area of interest for information gathering and back.
+3. Triangulation: being able to locate specific targets with precision and accuracy.
+4. Threat detection: identifying threats such as landmines, hostiles, toxic gasses and
+fires
+5. Assistance in rescues: being able to identify humans for rescue through tough and dangerous situations.
+
+
+## Application of robots in the warehouse sector
+
+### What is a warehouse robot?
+@@ -413,3 +441,9 @@ Despite a number of advantages and downsides, one thing is certain: persons with
+- FANUC | The Factory Automation Company - Fanuc. (n.d.). Retrieved October 11, 2022, from https://www.fanuc.eu/de/en
+
+- Robotnik | Robotics applications in agriculture. Retrieved October 26, 2022, from https://robotnik.eu/robotics-applications-in-agriculture/
+
+- RoboticsCareer | These are the 3 Most Advanced Robots of the Future. Retrieved November 11, 2022, from [https://www.roboticscareer.org](https://www.roboticscareer.org/news-and-events/news/23031)
+
+- Sinhgad Institute of Technolgy and Science, Internal Research Journal of Engineering and
+Technology | Military Robot for Reconnaissance and Surveillance Using Image
+Processing. Retrieved November 11, 2022, from [https://www.academia.edu](https://www.academia.edu/download/53592731/IRJET-V4I5490.pdf)
+
 ## Application of robots in agriculture 
 
 Robots in agriculture help improve both productivity and sustainability. They can specialize by for example only spraying plants that need pesticides with pesticides, and leave the nearby plants alone, [like this](https://www.youtube.com/watch?v=Qg9Zubc7lok). They also improve the working conditions for the farmers. 
