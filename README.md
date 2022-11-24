@@ -310,26 +310,30 @@ Type Of Miltary Robots:
  
    Centaur was created by Endeavor Robotics, which was purchased by FLIR Systems in February 2019.It is a war fighter capable of detecting, confirming, determining, and disposing of hazards such as landmines, unexploded ordnance, and improvised explosive devices (IEDs), as well as manoeuvring forces. Centaur is a medium-sized unmanned ground vehicle that can be controlled remotely (UGV).It is an open architect robot made up of a standard chassis linked with various sensors and payloads to support current and future military missions. This fully-IOP compliant robot is a MTRS INC II (man transportable robotic system increment II) solution.
 
-   ![Image Of Centaur](centaur.png)
+![Image Of Centaur](centaur.png)
 
  2. MUTT
  
   General Dynamics Land System created the Multi-Utility Tactical Transport (MUTT). It is a UGV that follows soldiers while carrying their equipment. MUTT is also useful for transporting wounded soldiers on the battlefield. Other soldiers are not concerned about transporting their colleagues in the middle of a military mission. The MUTT was designed in such a way that it can easily evolve to accommodate new payloads, controllers, and levels of autonomy. Military personnel can scout an area ahead of humans by using a remote-controlled MUTT. It can even be used to fire weapons. The United States military has agreed to purchase 5,700 robots from General Dynamics Land System by 2024.
-  ![Image of MUTT](mutt.png)
+
+ ![Image of MUTT](mutt.png)
 
 3. Dogo Robot
 
  DOGO is one of the best future military robots that makes use of advanced military technology. It is a cutting-edge tactical combat robot armed with a 9mm Glock pistol to serve as a wartime watchdog for soldiers. It is the earthbound equivalent of the ubiquitous combat drone, designed by General Robots. DOGO's weight of approximately 26 pounds makes it easy to carry with a signal hand by a fully armed commando. The Israeli police counter-terrorism unit and the Defense Ministry's R&D directorate contributed to the design of this fantastic anti-terrorism robot. It has a battery life that is sufficient for a 2-5 hour mission.
-  ![Image Of Dogo Robot](dogorobot.png)
+
+![Image Of Dogo Robot](dogorobot.png)
 
 4. Saffir 
 
  The acronym SAFFiR stands for Shipboard Autonomous Firefighting Robot. It is a 143-pound military robot that stands 5 feet 10 inches tall. It was created by Virginia Tech researchers. It is one of the most autonomous military robots ever created, utilising cutting-edge military technology. The ultimate goal of SAFFiR is to put out fires that start on naval ships. The only flaw in this military robot is that it cannot stand without a tether, despite being capable of taking the necessary steps and handling a fire hose. For the time being, the movements are controlled by humans.Its unique mechanism design provides a superhuman range of motion for manoeuvring in tight spaces.
+
  ![Image of Saffir Robot](saffir.png)
 
 5. Themis
 
  The acronym THeMIS stands for Tracked Hybrid Modular Infantry System. It is a multi-role unmanned aerial vehicle (UAV) designed to reduce the number of troops on the battlefield. The good news is that the robot has an open architecture and is outfitted with light or heavy machine guns, 40mm grenade launchers, 30mm autocannons, and anti-tank missile systems. It consists of a self-stabilizing remote-controlled weapon system that provides high precision over large areas and can operate 24 hours a day, seven days a week. Milrem Robots created THeMIS and performed a demonstration for the Italian army in November of last year.
+
  ![Image Of Themis](themis.jpg)
 
 ## Application Of Robots In Automobile 
