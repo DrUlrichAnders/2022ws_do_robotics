@@ -299,28 +299,28 @@ In Germany, Kuka mainly offers small and large jointed-arm robots. According to 
 ## Application Of Robots In Defence and Miltary 
 
 ![Image of Defence Robot](exoskelton.jpg)
-A military robot is a self-contained or remote-controlled mobile robot designed specifically for military applications. It includes transportation, searching, rescuing fellow soldiers, and even combating enemy forces are all part of the job.                                                               
+ A military robot is a self-contained or remote-controlled mobile robot designed specifically for military applications. It includes transportation, searching, rescuing fellow soldiers, and even combating enemy forces are all part of the job.                                                               
 Robots differ from other movable machines such as cars. However, with technological advancements, we now see modern cars with an on-board computer to make minor adjustments. With the help of various mechanical devices, you can directly control the majority of the elements in the car. Robots are physically distinct from ordinary computers in that they do not have a physical body attached to them.
 
 *__Type Of Miltary Robots__ 
  1. Centaur
-![Image Of Centaur][centaur.png]
+![Image Of Centaur](centaur.png)
   * Centaur was created by Endeavor Robotics, which was purchased by FLIR Systems in February 2019.It is a war fighter capable of detecting, confirming, determining, and disposing of hazards such as landmines, unexploded ordnance, and improvised explosive devices (IEDs), as well as manoeuvring forces. Centaur is a medium-sized unmanned ground vehicle that can be controlled remotely (UGV).It is an open architect robot made up of a standard chassis linked with various sensors and payloads to support current and future military missions. This fully-IOP compliant robot is a MTRS INC II (man transportable robotic system increment II) solution.
 
  2. MUTT
- ![Image of MUTT][mutt.png]
+ ![Image of MUTT](mutt.png)
   * General Dynamics Land System created the Multi-Utility Tactical Transport (MUTT). It is a UGV that follows soldiers while carrying their equipment. MUTT is also useful for transporting wounded soldiers on the battlefield. Other soldiers are not concerned about transporting their colleagues in the middle of a military mission. The MUTT was designed in such a way that it can easily evolve to accommodate new payloads, controllers, and levels of autonomy. Military personnel can scout an area ahead of humans by using a remote-controlled MUTT. It can even be used to fire weapons. The United States military has agreed to purchase 5,700 robots from General Dynamics Land System by 2024.
 
 3. Dogo Robot
-![Image Of Dogo Robot][dogorobot.png]
+![Image Of Dogo Robot](dogorobot.png)
  * DOGO is one of the best future military robots that makes use of advanced military technology. It is a cutting-edge tactical combat robot armed with a 9mm Glock pistol to serve as a wartime watchdog for soldiers. It is the earthbound equivalent of the ubiquitous combat drone, designed by General Robots. DOGO's weight of approximately 26 pounds makes it easy to carry with a signal hand by a fully armed commando. The Israeli police counter-terrorism unit and the Defense Ministry's R&D directorate contributed to the design of this fantastic anti-terrorism robot. It has a battery life that is sufficient for a 2-5 hour mission.
 
 4. Saffir 
-![Image of Saffir Robot][saffir.png]
+![Image of Saffir Robot](saffir.png)
  * The acronym SAFFiR stands for Shipboard Autonomous Firefighting Robot. It is a 143-pound military robot that stands 5 feet 10 inches tall. It was created by Virginia Tech researchers. It is one of the most autonomous military robots ever created, utilising cutting-edge military technology. The ultimate goal of SAFFiR is to put out fires that start on naval ships. The only flaw in this military robot is that it cannot stand without a tether, despite being capable of taking the necessary steps and handling a fire hose. For the time being, the movements are controlled by humans.Its unique mechanism design provides a superhuman range of motion for manoeuvring in tight spaces.
 
 5. Themis
-![Image Of Themis][themis.jpg]
+![Image Of Themis](themis.jpg)
  * The acronym THeMIS stands for Tracked Hybrid Modular Infantry System. It is a multi-role unmanned aerial vehicle (UAV) designed to reduce the number of troops on the battlefield. The good news is that the robot has an open architecture and is outfitted with light or heavy machine guns, 40mm grenade launchers, 30mm autocannons, and anti-tank missile systems. It consists of a self-stabilizing remote-controlled weapon system that provides high precision over large areas and can operate 24 hours a day, seven days a week. Milrem Robots created THeMIS and performed a demonstration for the Italian army in November of last year.
 
 ## Application Of Robots In Automobile 
@@ -330,11 +330,11 @@ Using robots allows car and automotive component manufacturers to increase produ
 
 *__Type Of Automobile Robots__ 
 1. Six Axis Robots
- ![six axis robots][sixaxis.jpeg]
+ ![six axis robots](sixaxis.jpeg)
  * In the industry, six-axis robots are regarded as a jack-of-all-trades automation solution. They have a good balance of speed, reach, and payload capacity, making them a viable option for most applications—though there are some that cannot be handled by this type. Tasks that require proximity or collaboration with human labourers, for example, may be unsuitable for these robots. Humans are frequently used in quality assurance applications. Combining a human and a six-axis robot could be hazardous. Furthermore, tasks requiring a mobile component, such as logistics, are unsuitable for a static robot like this. The most common type of robot found in automotive facilities is the six-axis robot. These robots are commonly used in material handling applications such as mounting door panels or wheels to automobile bodies.
 
 2. Colloborative Robots
- ![colloborativerobots][colloborativerobots.jpeg]
+  ![colloborativerobots](colloborativerobots.jpeg)
  * Collaborative robots (cobots), like six-axis robots, are capable general-purpose machines. Cobots are similar in form and function to their larger six-axis relatives, but the primary difference is that cobots work "collaboratively" alongside human labourers. When compared to six-axis robots, the force and speed limitations of cobots reduce the risk of injury around people. This limits the range of tasks that cobots can perform when compared to non-collaborative six-axis robots, but they excel in their niche. Cobots are typically slower, smaller, and have less payload capacity. However, collaborative robots can be an excellent choice for applications that require close proximity or collaboration with human operators as well as simple programming. This frequently includes simple assembly tasks such as small panel assembly, drilling, and screwing. Cobots are also commonly used.
 
 3. Scara Robots
