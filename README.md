@@ -9,6 +9,9 @@ This is our repository.
 Robotics is an engineering discipline that deals with the idea, design, construction, and operation of robots. The goal of robotics is to develop intelligent devices that can aid people in a number of ways.
 Robotics may take many different shapes. A robot can be human-like or take the shape of a robotic application, such as robotic process automation, which mimics how humans interact with software to conduct repetitive, rules-based activities.
 
+
+
+
 ## History and Development of Robots
 
 In the 1950s, inventor George Devol and engineer Joseph Engelberger developed *Unimate*, the first industrial robot. In the patent for "Programmed Article Transfer", which was granted in 1961, it reads as follows:
@@ -19,9 +22,31 @@ In 1961, this robotic arm was used in General Motors production. The machine per
 
 In the following years other Robots were developed that were used in the automotive industry. In 1973, Kuka, a company from Augsburg, launched the first six-axis, purely electrically operated robot. A year later, the Swedish company Asea, now ABB, followed with a robotic arm that was programmed with a computer for the first time. In the subsequent two decades, besides Kuka and ABB, manufacturers such as Fanuc and Yaskawa established themselves in the robot market.
 
+![Annual_installations_of_industrial_robots.png](Annual_installations_of_industrial_robots.png)
+
 #### The characteristics of Cobots
 
 A __cobot__ is an industrial robot that is designed to work together with humans. Therefore, the robot can be used in close vicinity to humans without the latter being exposed to a risk of injury. To guarantee this, the robots are limited to a minimum of their capabilities. The term __cobot__ is short for __collaborative robot__. Typically, cobots are more mobile and easier to move, which distinguishes them from typical industrial robots.
+
+#### Use of Robots in Germany 
+
+The number of robots in use worldwide has once again risen significantly - including in Germany. According to the International Federation of Robotics (IFR) the number of industrial robots per 10,000 employees increased again last year to a record 371 units. The Federal Republic of Germany is one of the most automated economies in the world.  Germany also ranks among the top countries internationally. In fact, Germany ranks fourth worldwide behind South Korea, Singapore and Japan. Along with Germany, Sweden in fifth place is another EU country among the leaders.
+
+## Trends in Robotics (according to IFR)
+
+| Market Trends | Technological Trends| 
+|--|--|
+| **1. Re- and nearshoring of production** |**1. Sustainable development** |
+|Securing supply chains| Reducing the carbon footprint of production & Responsible industrialization
+|Increasing resilience and flexibility (logistics, politics)|Contributing to the accessibility/availability of renewable energies
+| **2. “Democratizing” robotics** |**2. Advancements in adjacent technologies**
+| Low-cost robotics opens up new customer segments |Vision and spacial awareness technologies
+| Easy setup and installation (out-of-the-box solutions) |New software and end effectors for a diversified range of tasks
+| New distribution channels |AI offering new applications
+| **3. Ongoing trend to high mix-low volume production** |**3. Human-robot collaboration steadily developing** 
+| Growing demand for highly customized products| Expanding product range with higher payloads and longer reach
+| Fully digitalized production from order intake to delivery |Business ecosystems & one-stop shops ease the deployment 
+
 
 ## Producers
 
@@ -79,7 +104,6 @@ And Reach Of Arm Ranges From 0.58 Meters to 4.2 Meters In Length
 ARB 8700:Flagship Model
 
 ![Picture of ABB IRB 8700](ABB_8700.png)
-[![IMAGE_ALT](ABB_8700.png)](https://www.youtube.com/watch?v=cVaFG9kSksU)
 
 
 Features and benefits:
@@ -238,23 +262,30 @@ Headquarter: Augsburg, Germany
 
 Size of Company (Nb of Employees): 14,000 employees
 
-Representative Robot:
+Kuka's robots are used in the automotive industry as well as in German medium-sized businesses. KUKA's portfolio is broad and ranges from automotive, automotive supplier/metal industry, electronics industry, food, foundry and forging industry, medical technology to plastics industry.
+
+
+In 2015, no German company wanted to make a major investment in Kuka, and the smaller shareholders did not want to turn down the lucrative offer from the Midea Group - a chinese household appliance giant- and thus gave up some of their shares. After several years, more than 95 percent of Kuka AG is already owned by Chinese group Midea which is now to take over the robot manufacturer completely via "squeeze-out" procedure. Therefore, there is also a lot of criticism from a political perspective.
+
+#### Representative Robot:
 
 Industrial Robots 
+
+In Germany, Kuka mainly offers small and large jointed-arm robots. According to industry estimates, the market share for jointed-arm robots is in the low double digits.
 * different robot types depending on payload (kg) and reach (mm)
     * e.g. KR Quantec (120-300 kg & 2671-3904 mm) or Linearrobot (16-600 kg & 0-45000m)
 
-![Image of Industry robots KUKA](industry_KUKA.png)
+![Image of Industry robots KUKA](kuka-industrieroboter-2020.jpg)
 
 ---
 
 ## Industries Utilizing Robotics: :robot:
 
-* [Healtchcare sector](https://www.youtube.com/watch?v=ZM1GZSO7MYs)
-    * Surgery robots (like [da Vinci Xi](https://www.youtube.com/watch?v=H4WzUSq9OeY))
-    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia; rehabilitation robots)
-    * assistive robots 
-    * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
+![Annual_installations](Annual_installations_of_industrial_robots_by_customer_industry.png)
+
+![Top_6_application_areas_for_professional_service_robots](Top_6_application_areas_for_professional_service_robots.png)
+
+
 * [Manufacturing e.g. Automotive Industry](https://www.youtube.com/watch?v=P7fi4hP_y80)
     * consist mainly of mechanical arms tasked with pick and place (other examples: robotic welding machine, palletizing robot arm, automatic painting robot,...)
 * [Agriculture](https://www.youtube.com/watch?v=bd9JZXscOIE)
@@ -262,22 +293,7 @@ Industrial Robots
 *  [Military](https://www.youtube.com/watch?v=uXGj1kZnFEg)
     * Military robots use artificial intelligence for carrying out different tasks like picking off snipers, target acquisition, climbing ladders, operating in disaster situations, explosive ordnance disposal, search and rescue, fire fighting, and many more.
 
-* Further examples: 
-    * Aerospace
-    * Beverage
-    * Computers
-    * Consumer goods
-    * E-Commerce
-    * Electronics
-    * Food
-    * Grocery
-    * Hardware
-    * Liquor distribution
-    * Medical products
-    * Pharmaceutical
-    * Quality control and inspection
-    * Retail
-    * Warehousing and distribution
+    --- 
 
 
 ## Application Of Robots In Defence and Miltary 
@@ -355,12 +371,60 @@ Using robots allows car and automotive component manufacturers to increase produ
     * Modular robots complement other systems and can be configured to perform different tasks and assist in rehabilitation, for example.  In healthcare, these include therapeutic exoskeleton robots and prosthetic robotic arms and legs.
 
 * __Nursing Robots__
-    * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
+
+    * Therapy robots (like [Paro](https://www.youtube.com/watch?v=2ZUn9qtG8ow) for dementia; rehabilitation robots)
+    * assistive robots 
+    * social robots (e.g. humanoid robots [Pepper](https://www.youtube.com/watch?v=zJHyaD1psMc) or [NAO](https://www.youtube.com/watch?v=2STTNYNF4lk)) 
+
+        * The use of robots in care is much more diverse. There are care robots such as Pepper, which communicates with people in need of care as a humanoid robot *(social robot)* and makes their daily lives easier and can also mentally activate its counterpart. Furthermore, care robots *(collaborative)* are used for heavy physical activities in care, such as turning or changing the position of patients, in order to spare the nursing staff. In addition to relieving the physical strain, the use of such robots also requires fewer nursing staff due to increased efficiency.
     * ![Image of Robot Pepper during interaction with patients](nursing_robot_pepper.jpeg)
     * ![Image of Robobear RIKEN](Riken_Robear.jpg)
 
-TESTTest 
+#### The demographic change will make the use of robots in the clinical sector unavoidable for the future
 
+According to expert calculations, there will be a shortage of 150,000 nursing staff in Germany by 2025, and the number will continue to rise due to demographic change. The challenge of how to overcome this shortage has become a topic of tremendous interest for politics and social sciences given the urgency and the risk of collapse of our health care systems. The attraction of the nursing profession is a recurring topic of debate, in which not only the high workload but also the poor payment are the central issues. However, concrete measures for action with real impact on the current situation are hardly ever taken, if at all. The low attractiveness of the nursing profession naturally exacerbates the labor shortage further, since not only existing personnel are quitting but also less want to enter the nursing profession. Obviously, because of the fact, that the nursing shortage cannot be overcome by human resources alone and existing technology is developing rapidly, the use of robotic systems will  also become established in nursing in the future.
+
+## Application Of Robots in Military
+
+Robots in military help to reduce the cost of war on human lives. Today the military uses
+robots in various tasks especially those that are difficult for human beings or those deemed to
+dangerous to the lives of the soldiers and with costly repercussions. This is aimed at reducing the
+number of soldiers lost to war while meeting the needs of the military. In addition to being able
+to operate in harsh weather conditions as well as terrain, robots used in this field are remotely
+controlled and well equipped with cameras, sensors and mechanical limbs to be able to perform
+their tasks.
+There are two distinct types of robots used by the military; the ones that inflict damage to
+the enemy, while others are used to collect information as well as surveillance and
+reconnaissance.
+When it comes to robot development in this space, some of the projects include the
+[Robobee](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=the%20near%20future.-,The%20Robobee,-Developed%20by%20Harvard%E2%80%99s), [Dogo](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=for%20crop%20pollination.-,The%20DOGO,-The%20DOGO%20is) and [Saffir](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=safe%20from%20harm.-,SAFFiR,-Created%20by%20engineering). Where the [Robobee](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=the%20near%20future.-,The%20Robobee,-Developed%20by%20Harvard%E2%80%99s) manages remotely controlled aerial surveillance
+without detection. while [Dogo](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=for%20crop%20pollination.-,The%20DOGO,-The%20DOGO%20is) is capable of ground reconnaissance with both defensive and
+offensive capabilities. [Saffir](https://www.roboticscareer.org/news-and-events/news/23031#:~:text=safe%20from%20harm.-,SAFFiR,-Created%20by%20engineering) on the hand is built to tackle fires on sea vessels and can even see-
+through smoke.
+According to [internal research journal of engineering and technology, of the Sinhgad
+institute of technology and science, dated 05 May,2017](https://www.academia.edu/download/53592731/IRJET-V4I5490.pdf), key applications of the robots used in the military include:
+1. Surveillance: being able to offer real time monitoring of the field and areas of
+interest.
+2. Reconnaissance: getting to the area of interest for information gathering and back.
+3. Triangulation: being able to locate specific targets with precision and accuracy.
+4. Threat detection: identifying threats such as landmines, hostiles, toxic gasses and
+fires
+5. Assistance in rescues: being able to identify humans for rescue through tough and dangerous situations.
+
+
+## Application of robots in the warehouse sector
+
+### What is a warehouse robot?
+@@ -413,3 +441,9 @@ Despite a number of advantages and downsides, one thing is certain: persons with
+- FANUC | The Factory Automation Company - Fanuc. (n.d.). Retrieved October 11, 2022, from https://www.fanuc.eu/de/en
+
+- Robotnik | Robotics applications in agriculture. Retrieved October 26, 2022, from https://robotnik.eu/robotics-applications-in-agriculture/
+
+- RoboticsCareer | These are the 3 Most Advanced Robots of the Future. Retrieved November 11, 2022, from [https://www.roboticscareer.org](https://www.roboticscareer.org/news-and-events/news/23031)
+
+- Sinhgad Institute of Technolgy and Science, Internal Research Journal of Engineering and
+Technology | Military Robot for Reconnaissance and Surveillance Using Image
+Processing. Retrieved November 11, 2022, from [https://www.academia.edu](https://www.academia.edu/download/53592731/IRJET-V4I5490.pdf)
 
 ## Application of robots in agriculture 
 
